@@ -5459,6 +5459,8 @@ add address=2600:f0f0:c14d::/48 disabled=no list=route-aws
 add address=2600:f0f0:c14d::/48 disabled=no list=route-aws
 add address=2600:f0f0:c14e::/48 disabled=no list=route-aws
 add address=2600:f0f0:c14e::/48 disabled=no list=route-aws
+add address=2600:f0f0:c14f::/48 disabled=no list=route-aws
+add address=2600:f0f0:c14f::/48 disabled=no list=route-aws
 add address=2600:f0f0:c100::/48 disabled=no list=route-aws
 add address=2600:f0f0:c100::/48 disabled=no list=route-aws
 add address=2600:f0f0:c106::/48 disabled=no list=route-aws
